@@ -1,4 +1,6 @@
-### Olá• 
-— Estou trabalhando com o Paradise RP
-— Estou estudando JS
-— COntato:  Discord: souza#0001 Email: souz4@protonmail.com
+### Hello world! • 
+
+## Souza, 15 anos, São Paulo🌆
+
+# Estudante de Java Script e outros, buscando conhecimento na parte de programação.
+# Trabalhando no Paradise RP. https://discord.gg/paradisecity
